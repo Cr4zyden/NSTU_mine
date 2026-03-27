@@ -12,3 +12,7 @@
 
 ## What you`ll need
 1. To create the server we will use the NSTU common platform - https://cloud.nstu.ru/wiki/
+2. On this page you need to select a virtual server on GNU/Linux
+<img src=images/img1.jpg width="600" height="400">
+<em>Here you can find detailed information about the cloud server itself.
+<img src=images/img2.jpg width="600" height="400">
